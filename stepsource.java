@@ -1,5 +1,5 @@
 
 public class Test{
-	private String v1 = "Test":
+	private String v1 = "Test":again
 	
 }
